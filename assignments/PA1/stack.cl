@@ -145,7 +145,6 @@ class Main inherits IO {
          while machine.alive() loop {
             out_string(">");
             machine <- (new StackCommand).from(in_string()).eval(machine);
-            -- out_string(machine.list().val());
          } pool;
    }};
 };
