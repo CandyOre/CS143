@@ -21,6 +21,10 @@ In 64bit machine, also install:
 
         sudo apt-get install libc6-i386
 
+### Unofficial
+
+- [wangdh15](https://github.com/wangdh15/cs143)
+
 ## Progress
 
 |Date   |Lecture    |Assignment |Time   |
