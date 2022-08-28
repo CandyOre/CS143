@@ -29,4 +29,4 @@ In 64bit machine, also install:
 
 |Date   |Lecture    |Assignment |Time   |
 |:-:    |:-:        |:-:        |:-:    |
-|       |           |           |       |
+|0828   |01-03      |PA1        |5h     |
