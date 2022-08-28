@@ -9,7 +9,7 @@ Stanford CS143 is a course about Compilers. There will be a list of "what I lear
 ### Official
 
 - [[Newest] Course Website](http://web.stanford.edu/class/cs143/)
-- [Starter Code](https://courses.edx.org/asset-v1:StanfordOnline+SOE.YCSCS1+1T2020+type@asset+block@student-dist.tar.gz)
+- [[Download] Starter Code](https://courses.edx.org/asset-v1:StanfordOnline+SOE.YCSCS1+1T2020+type@asset+block@student-dist.tar.gz)
 
 ### Dependency
 
